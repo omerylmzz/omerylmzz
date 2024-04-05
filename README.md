@@ -6,7 +6,7 @@
   <br/>
 - 🔭 I’m currently working on personal project<br/>
 - 👀 I’m interested in developing mobile apps with React Native<br/>
-- 🌱 I’m currently learning React Native and Node.js<br/>
+- 🌱 I’m currently learning TypeScript and NodeJS<br/>
 - 📫 How to reach me omeryilmaz.neva@gmail.com<br/>
   
 </div>
@@ -49,7 +49,7 @@
 
 <h3 align="left">Compilers</h3>
 <p>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=webstorm" alt="webstorm" width="40" height="40"/> </a>
+  <a href="https://www.jetbrains.com/webstorm/promo" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=webstorm" alt="webstorm" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/> </a>
 </p>
 
