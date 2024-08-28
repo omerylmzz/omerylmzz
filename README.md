@@ -19,7 +19,8 @@
 <h3 align="left">Languages</h3>
 <p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
-    <a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_TypeScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="javascript" width="40" height="40"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_TypeScript" target="_blank" rel="typescript"> <img src="https://skillicons.dev/icons?i=ts" alt="javascript" width="40" height="40"/>
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/>
 </p>
 
 <h3 align="left">Front End</h3>
@@ -42,9 +43,10 @@
 <p>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> </a>
   <a href="https://www.postman.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a>
-  <a href="https://www.figma.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/tr/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ps" alt="photoshop" width="40" height="40"/> </a>
+  <a href="https://developer.android.com/studio?hl=tr" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a>
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.adobe.com/tr/products/photoshop.html" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ps" alt="photoshop" width="40" height="40"/> </a>
+  <a href="https://www.figma.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Compilers</h3>
